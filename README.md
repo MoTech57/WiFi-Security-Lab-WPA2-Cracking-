@@ -47,8 +47,8 @@ Locate file and send to VM with ssh:  <br/>
 <img src="https://i.imgur.com/PprrkzP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Use aircrack-ng with dictionary wordlist successfully cracked - “test123!”:  <br/>
+<img src="https://i.imgur.com/6pENfVx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
