@@ -1,22 +1,26 @@
-<h1>JW - Disk Sanitization</h1>
+<h1>Wi-Fi Security Lab: WPA2 Cracking</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project demonstrates a controlled Wi-Fi security lab where I captured and cracked a WPA2 password using Linux, Kali VM, and Raspberry Pi. The process involved packet capture, WPA2 handshake analysis, and a dictionary-based attack with aircrack-ng, successfully revealing the test password “test123!”. The lab highlights how WPA2 remains vulnerable to weak passwords and reinforces the importance of strong passphrases and migration to WPA3.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Bash/Shell scripting</b> 
+- <b>Linux networking utilities</b>
+- <b>Wireshark</b> 
+- <b>SSH</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Fedora Linux</b> 
+- <b>Kali Linux (VM)</b> 
+- <b>Raspberry Pi (Raspberry Pi OS)</b> 
+- <b>Lab Router</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Attack Workflow:</h2>
 
 <p align="center">
 Launch the utility: <br/>
