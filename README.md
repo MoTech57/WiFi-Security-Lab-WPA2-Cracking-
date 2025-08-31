@@ -23,16 +23,16 @@ This project demonstrates a controlled Wi-Fi security lab where I captured and c
 <h2>Attack Workflow:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/Yzz7JJ2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Lab network created with spare router + Raspberry Pi 4 Password: test123!: <br/>
+<img src="https://i.imgur.com/iKyEhx8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Monitordn.sh create to enable monitor mode:  <br/>
+<img src="https://i.imgur.com/pry0CVu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Monitorup.sh create to enable managed mode: <br/>
+<img src="https://i.imgur.com/4adI6dW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
