@@ -1,5 +1,5 @@
-<h1>Wi-Fi Security Lab: WPA2 Cracking</h1>
-
+<h1>🔒 Wi-Fi Security Lab: WPA2 Cracking 🔒</h1>
+ 
 
 <h2>Description</h2>
 This project demonstrates a controlled Wi-Fi security lab where I captured and cracked a WPA2 password using Linux, Kali VM, and Raspberry Pi. The process involved packet capture, WPA2 handshake analysis, and a dictionary-based attack with aircrack-ng, successfully revealing the test password “test123!”. The lab highlights how WPA2 remains vulnerable to weak passwords and reinforces the importance of strong passphrases and migration to WPA3.
